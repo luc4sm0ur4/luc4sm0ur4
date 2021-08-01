@@ -1,9 +1,9 @@
 ### Eae, sou Lucas Moura 👋
 
 
-- 💻 Atualmente trabalho oferecendo manutenção em Desktop, notebook, celular, como limpeza e formatação.
-- 🔭 Atualmente estou cursando Ciencia da Computação pela Universidade Federal do Tocantins (UFT)
-- 🌱 Atualmente estou aprendendo sobre Python, C 
+- 💻 Currently I work offering maintenance on Desktop, notebook, cell phone, as cleaning and formatting.
+- 🔭 I am currently studying Computer Science at the Federal University of Tocantins (UFT).
+- 🌱 I'm currently learning about Python, C.
 
 <div>
   <a href="https://github.com/luc4sm0ur4">
