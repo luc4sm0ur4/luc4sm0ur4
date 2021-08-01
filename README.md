@@ -1,4 +1,4 @@
-### Eae, sou Lucas Moura 👋
+### Hi, I'm Lucas Moura 👋
 
 
 - 💻 Currently I work offering maintenance on Desktop, notebook, cell phone, as cleaning and formatting.
