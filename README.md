@@ -13,7 +13,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="LucasMoura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="LucasMoura-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-</div>
+  <img align="center" alt="LucasMoura-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+  </div>
   
   ##
   <div>
