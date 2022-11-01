@@ -3,7 +3,7 @@
 
 - 💻 Currently I work offering maintenance on Desktop, notebook, cell phone, as cleaning and formatting.
 - 🔭 I am currently studying Computer Science at the Federal University of Tocantins (UFT).
-- 🌱 I'm currently learning about Python, C.
+- 🌱 I'm currently learning about Python, C and Ruby.
 
 <div>
   <a href="https://github.com/luc4sm0ur4">
