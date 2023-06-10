@@ -14,7 +14,7 @@
   ##
   
 <div id="minha-div">
-    Abaixo são minhas SKills em desenvolvimento:
+    Below are my development skills:
   </div>
 
   <div style="display: inline_block"><br>
