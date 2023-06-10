@@ -14,7 +14,7 @@
   ##
   
 <div id="minha-div">
-    Below are my development skills:
+    - Below are my development skills:
   </div>
 
   <div style="display: inline_block"><br>
