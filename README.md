@@ -1,9 +1,9 @@
 ### Hi, I'm Lucas Moura 👋
 
 
-- 💻 Currently I work offering maintenance on Desktop, notebook, cell phone, as cleaning and formatting.
+- 💻 I currently work as an intern at the Companhia Naciol de Abastecimento(CONAB) as IT support. In addition, I offer maintenance services for Desktop, notebook and cell phones, such as cleaning and formatting.
 - 🔭 I am currently studying Computer Science at the Federal University of Tocantins (UFT).
-- 🌱 I'm currently learning about Python, C and Ruby.
+- 🌱 I am currently learning about Cybersecurity and computer networks.
 
 <div>
   <a href="https://github.com/luc4sm0ur4">
