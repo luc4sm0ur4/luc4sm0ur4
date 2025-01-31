@@ -1,9 +1,13 @@
 ### Hi, I'm Lucas Moura 👋
 
+- 💻 I worked as an IT support intern at the Companhia Nacional de Abastecimento (CONAB).
+During my time there, I provided technical assistance and troubleshooting for hardware/software issues. I also offer freelance maintenance services for desktops, notebooks, and mobile devices, including cleaning, formatting, and repairs.
 
-- 💻 I currently work as an intern at the Companhia Naciol de Abastecimento(CONAB) as IT support. In addition, I offer maintenance services for Desktop, notebook and cell phones, such as cleaning and formatting.
+- 🚀 I develop personal projects (solo or collaborative) across diverse fields
+Including finance tools, free software contributions, cryptocurrency mining experiments, game development, and more.
+
 - 🔭 I am currently studying Computer Science at the Federal University of Tocantins (UFT).
-- 🌱 I am currently learning about Cybersecurity and computer networks.
+- 🌱 I am deepening my knowledge in Cybersecurity and computer networks through self-study and coursework.
 
 <div>
   <a href="https://github.com/luc4sm0ur4">
