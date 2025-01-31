@@ -9,6 +9,16 @@ Including finance tools, free software contributions, cryptocurrency mining expe
 - 🔭 I am currently studying Computer Science at the Federal University of Tocantins (UFT).
 - 🌱 I am deepening my knowledge in Cybersecurity and computer networks through self-study and coursework.
 
+#PT-BT
+- 💻 Trabalhei como estagiário de suporte de TI na Companhia Nacional de Abastecimento (CONAB).
+Durante meu tempo lá, forneci assistência técnica e solução de problemas de hardware/software. Também ofereço serviços freelance de manutenção para desktops, notebooks e dispositivos móveis, incluindo limpeza, formatação e reparos.
+
+- 🚀 Desenvolvo projetos pessoais (individuais ou colaborativos) em diversas áreas
+Incluindo ferramentas financeiras, contribuições de software gratuito, experimentos de mineração de criptomoedas, desenvolvimento de jogos e muito mais.
+
+- 🔭 Atualmente estou cursando Ciência da Computação na Universidade Federal do Tocantins (UFT).
+- 🌱 Estou aprofundando meus conhecimentos em Segurança Cibernética e redes de computadores por meio de auto-estudo e cursos.
+
 <div>
   <a href="https://github.com/luc4sm0ur4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc4sm0ur4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
