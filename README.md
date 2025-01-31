@@ -9,7 +9,7 @@ Including finance tools, free software contributions, cryptocurrency mining expe
 - 🔭 I am currently studying Computer Science at the Federal University of Tocantins (UFT).
 - 🌱 I am deepening my knowledge in Cybersecurity and computer networks through self-study and coursework.
 
-#PT-BT
+###PT-BT
 - 💻 Trabalhei como estagiário de suporte de TI na Companhia Nacional de Abastecimento (CONAB).
 Durante meu tempo lá, forneci assistência técnica e solução de problemas de hardware/software. Também ofereço serviços freelance de manutenção para desktops, notebooks e dispositivos móveis, incluindo limpeza, formatação e reparos.
 
